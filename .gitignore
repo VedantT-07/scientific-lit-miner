@@ -1,0 +1,21 @@
+# Environment & Secrets
+.env
+kaggle.json
+
+# Python & Virtual Envs
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+
+# Streamlit & Cache
+.streamlit/
+cache/
+*.pkl
+*.archive
+*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
